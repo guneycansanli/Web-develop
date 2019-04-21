@@ -1,0 +1,70 @@
+@charset "utf-8";
+#arkaplan{
+	background-color: #ffffff;width: 1040px;height: 960px; margin: 0 auto;
+}
+#baslik{
+	height: 50px; background-color: #A4FFD3;border: 1px solid;border-radius: 10px;
+}
+#baslik h1{
+	text-align: center;
+	margin: 0 auto;
+}
+#govde{
+	height: 100px;background-color: #A4FFD3;border: 1px solid;margin-top: 10px;border-radius: 10px;
+}
+#sol1{
+	width: 250px; height: 720px;background-color: #A4FFD3;border: 1px solid;float: left;margin-top: 10px;border-radius: 10px;
+}
+
+#sag{
+	width: 780px; height: 720px;background-color: #A4FFD3;border: 1px solid;float: left;margin-top: 10px;margin-left: 5px;border-radius: 10px;
+}
+#alt{
+	width: 1040px; height: 50px;background-color: #A4FFD3;border: 1px solid ;margin-top: 740px;border-radius: 10px;
+}#menu {
+    margin-left:25px ;
+    padding: 0px;
+    list-style-type: none;
+	border-radius: 10px;
+}
+#menu li {
+    float: left;
+    width: 125px;
+    position: relative;
+	margin-left: 15px;
+}
+#menu a {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+    color: #676EFF;
+    text-decoration: none;
+    background-color: #110004;
+    display: block;
+    padding-top: 5px;
+    padding-right: 5px;
+    border: 1px solid #000000;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 2px;
+}
+#menu a:hover {
+    background-color: #A4FFD3;
+}
+#alt font{
+	float: right;
+	font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+	text-decoration: none;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+#kisiler{
+	float: left;
+	height: 720px;
+	width: 1040px;
+	background: #A4FFD3;
+	margin-top: 10px;
+	border:1px solid;
+	border-radius: 10px;
+	
+}
